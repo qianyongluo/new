@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 
 asdf asdf sdfsa fas dfsd 
+=======
+ ssdfssadfasd fsf sdfs
+>>>>>>> c717f982bef5bf5735c6ff4e67cb51b40af7b413
